@@ -14,7 +14,7 @@
 - 📙 I am a **Full Stack Developer**
 - 🌱 I'm currently learning `Java`
 - ⌨️ Most used line of code `console.log()`
-- 🥅 2025 Goals: Learn **Software Engineer**
+- 🥅 2026 Goals: Learn **Software Engineer**
 - 📧 Mail: pritam.cse2014@gmail.com
 
 ## Connect with me:
